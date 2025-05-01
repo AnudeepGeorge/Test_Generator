@@ -1,26 +1,26 @@
 # Test_Generator
 This is a Streamlit-based web application that generates educational questions from uploaded PDF notes or textbooks. Leveraging LangChain, OpenAI GPT-3.5, and FAISS, the app can create:
 
-✅ Multiple Choice Questions (MCQs)
+# 1. Multiple Choice Questions (MCQs)
 
-✏️ Short Answer Questions
+# 2. Short Answer Questions
 
-📝 Long/Essay Answer Questions
+# 3. Long/Essay Answer Questions
 
 It provides an intuitive interface for educators and learners to transform learning material into practice questions effortlessly.
 
-🚀 Features
-📄 Upload a PDF and automatically extract text
+## Features
+1. Upload a PDF and automatically extract text
 
-🔍 Use embeddings and vector search to find relevant content
+2. Use embeddings and vector search to find relevant content
 
-🤖 Generate MCQs, short, and long answer questions using GPT-3.5
+3. Generate MCQs, short, and long answer questions using GPT-3.5
 
-🧠 Interactive question viewing with answer checking
+4. Interactive question viewing with answer checking
 
-💡 Built with LangChain, FAISS, OpenAI, and Streamlit
+5. Built with LangChain, FAISS, OpenAI, and Streamlit
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 Follow these steps to set up and run the Test Question Generator locally.
 
